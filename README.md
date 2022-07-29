@@ -1,5 +1,13 @@
 # E-NOTA
 
+## Daftar Anggota Kelompok
+- Abdurrahman Grahadi Maulana
+- Andre Krisna Murti
+- Gilang Saefullah
+- Krisna Tri Anggara
+- Muhammad Akbar Ramadhan
+- Naufal Maulana Ramadhan
+
 ## Deskripsi
 E-NOTA adalah Aplikasi E-NOTA untuk STIK-PTIK yang dibuat menggunakan Flutter sebagai Frontend, PHP Native sebagai Backend atau API dan MySQL sebagai database pada Aplikasi ini.
 
@@ -12,5 +20,8 @@ E-NOTA adalah Aplikasi E-NOTA untuk STIK-PTIK yang dibuat menggunakan Flutter se
 - sesuaikan URL utama dengan IPv4 Address pada folder flutter contoh IP local saya adalah 192.168.213.157, maka URL saya adalah http://192.168.213.157/
 - sesuaikan URL API dengan nama folder contoh, crud/note_web/
 - selesai
+
+## Update APK
+- jalankan perintah "git pull" untuk mendapatkan update terbaru
 
 ## Selamat Mencoba dan Semoga Bermanfaat, Thanks
